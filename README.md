@@ -27,7 +27,7 @@ go run main.go
 ```
 
 ##### Try the Project
-<!-- - Go to the POSTMAN documentation [here](https://documenter.getpostman.com/view/10004593/TzscqnfK) -->
+<!-- - Go to the POSTMAN documentation [here]() -->
 - Open POSTMAN and access use
 ```
 http://localhost:8000
